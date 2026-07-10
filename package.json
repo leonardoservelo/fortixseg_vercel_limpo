@@ -1,13 +1,6 @@
 {
-  "name": "fortixseg-platform",
-  "version": "0.2.0",
-  "private": true,
+  "name": "fortixseg-vercel-checkout",
+  "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "start": "node server.js",
-    "check": "node --check server.js && node --check script.js"
-  },
-  "engines": {
-    "node": ">=18"
-  }
+  "private": true
 }
